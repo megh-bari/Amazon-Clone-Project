@@ -22,7 +22,7 @@ Welcome to the Amazon Clone project! This project is an HTML and CSS implementat
 1. Clone the repository:
 <pre>
     <code id="your-code-block-id">
-  https://github.com/megh-bari/amazon-clone-project.git
+  https://github.com/megh-bari/Amazon-Clone-Project.git
     </code>
 </pre>
 
