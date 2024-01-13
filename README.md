@@ -13,7 +13,7 @@ Welcome to the Amazon Clone project! This project is an HTML and CSS implementat
 - CSS
 
 ## Preview
-![Amazon Clone Preview](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course/assets/142393952/792dcf59-a9a4-47b8-acc8-ee40f65c4acd)
+![1](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course/assets/142393952/414c8305-c764-4126-9003-91905218bd6f)
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/megh-bari/amazon-clone-project.git`
