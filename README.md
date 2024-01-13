@@ -44,11 +44,6 @@ Let's connect! Find me on meghbari@1gamail.com
 - **Instagram:** [@spidey._.01](https://www.instagram.com/spidey._.01/)
 - **Twitter:** [@megh_bari](https://twitter.com/megh_bari/)
 
-## Overview
-
-...
-
-
 ## Happy coding!
 
 
