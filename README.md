@@ -27,7 +27,9 @@ Welcome to the Amazon Clone project! This project is an HTML and CSS implementat
 </pre>
 2. Navigate to the Project Directory:
 <pre>
-       cd Amazon-Clone-Project
+    <code>
+cd Amazon-Clone-Project       
+    </code>
 </pre>
 3. Open the Project:
 
