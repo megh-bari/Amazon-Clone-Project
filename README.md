@@ -25,8 +25,11 @@ Welcome to the Amazon Clone project! This project is an HTML and CSS implementat
   https://github.com/megh-bari/Amazon-Clone-Project.git
     </code>
 </pre>
-
-2. Open the Project:
+2. Navigate to the Project Directory:
+<pre>
+       cd Amazon-Clone-Project
+</pre>
+3. Open the Project:
 
 - Navigate to the project folder.
 - Open the `index.html` file in your preferred web browser
